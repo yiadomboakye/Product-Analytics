@@ -17,6 +17,7 @@ uncertainty in predictions.
 
 ### Data Sources
 The dataset used for this project was obtained from Amdari website.
+- [ Download Here](https://github.com/yiadomboakye/Product-Analytics/blob/main/VendBridge%20-%20Vendbridge.csv)
 
 ### Technical Tools Deployed
 - Google Sheet: Used for data collection and preparation.
