@@ -80,6 +80,16 @@ higher churn rate.
 immediate attention. Addressing these technical issues will be crucial in reducing 
 churn and retaining users.
 
+##### User Acquisition Dashboard
+
+![User Acquisition Dashboard](https://github.com/user-attachments/assets/83f8b244-f1c2-4285-b911-d2eccf89ca0e)
+
+
+#### Engagement Dashboard
+![Engagement Dashboard](https://github.com/user-attachments/assets/db6df630-a095-4cae-aabd-8f168666c9b2)
+
+
+
 #### Trends
 1.  Total App Installs
 - There is fluctuating growth in app installs, with noticeable peaks and valleys.
@@ -88,17 +98,24 @@ late June, July, and August.
 - End of August (around the 24th) shows a slight dip, which could represent a drop in 
 installs or seasonal variation.
 
+![Total App Installs](https://github.com/user-attachments/assets/ead0c3cf-4baa-4918-ac02-1de824cbd34f)
+
+
 2. User Signups
 - There are fluctuations in user signups over time, with clear spikes around late June, 
 mid-August, and August 24th.
 - While there are fluctuations, there’s a steady level of signups, which indicates that the 
 app’s overall appeal is strong enough to bring in users consistently.
 
+![User Signups](https://github.com/user-attachments/assets/44bd140c-e715-4c02-84b4-b1d1a5d0f5a9)
+
 3. No of App Crashes
 - The number of app crashes fluctuates significantly over the period, with sharp 
 spikes around mid-June, mid-July, and late August.
 - The significant spikes in app crashes are a clear indication that the app’s 
 performance needs urgent attention.
+
+![No of App Crashes](https://github.com/user-attachments/assets/d056c751-6e17-4839-903c-257906019960)
 
 4. Total Uninstalls
 - The spike on August 24th stands out, which is similar to the patterns seen in both app 
@@ -108,3 +125,49 @@ might have led to increased uninstalls during this period.
 around certain periods, especially after app crashes or performance issues, indicating 
 that these factors are influencing users to abandon the app.
 
+![Total Uninstalls](https://github.com/user-attachments/assets/e3b356d4-78af-46d4-b688-24ba431bf302)
+
+#### Overall Forecast Trend: Stability with Slight Decline.
+- Historical Pattern: Consistent daily engagement around 2K-4K users with moderate fluctuations.
+- Forecast Direction: All three timeframes (30, 60, 90 days) show a gradual declining trend.
+- Confidence Level: The red confidence intervals indicate moderate uncertainty, suggesting forecasts are reasonably reliable.
+
+####  Time-Horizon Specific Insights.
+##### 30-Day Forecast
+- Trend: Slight downward trajectory from current levels.
+- Confidence: Narrow confidence bands indicate higher prediction accuracy.
+- Range: Daily engagement expected to stay within 2K-3K range.
+- Seasonality: Minimal seasonal variation detected.
+
+##### 60-Day Forecast
+- Trend: Continued gradual decline with stabilization
+- Confidence: Wider confidence intervals reflecting increased uncertainty
+- Pattern: More pronounced cyclical variations emerge.
+- Risk: Potential for engagement to drop below 2K threshold.
+
+##### 90-Day Forecast
+- Trend: Stabilization at lower levels with persistent decline.
+- Confidence: Widest confidence bands showing significant uncertainty.
+- Long-term: Engagement settling around 2K-2.5K daily users.
+- Volatility: Increased variability in predictions.
+
+#### Critical Insights & Concerns: Declining Engagement Trajectory
+- Consistent Decline: All forecast periods show downward trend.
+- Magnitude: Approximately 15-20% decrease expected over 90 days.
+- Acceleration: Rate of decline appears to stabilize in longer forecasts.
+
+#### Uncertainty Patterns
+- Increasing Uncertainty: Confidence intervals widen significantly with longer timeframes.
+- Volatility Risk: 90-day forecast shows potential for significant swings.
+- Prediction Reliability: 30-day forecasts most reliable for planning.
+
+#### Forecasted Report
+
+![Forecast Dashboard](https://github.com/user-attachments/assets/6d138ea1-7e49-4ca1-a0ca-fe5a32b3b572)
+
+
+#### Leader Dashboard Report
+![Leaderboard Report](https://github.com/user-attachments/assets/2d9060f2-6f2c-4507-be17-a5bb5a6c8faf)
+
+
+  
