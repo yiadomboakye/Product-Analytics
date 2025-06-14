@@ -1,4 +1,17 @@
 # Product-Analytics
+
+## Table of content
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Data Sources](#Data-Sources)
+- [Tools](#Technical-Tools-Deployed)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Modelling](#data-modelling)
+- [Data Analysis](#data-analysis)
+- [Results /Findings](#results-findings)
+- [Recommendations](#recommendations)
+
+  
 ## Project Overview
 ## Implementing a Performance Monitoring Dashboard to Monitor User Adoption and Engagement on VendBridge App
 In this project, I explored how product analytics can be used to evaluate the performance and user engagement of VendBridge, a digital marketplace app launched by NexaLink. The aim was to understand how users are interacting with the app and identify what’s working, what’s not, and where improvements can be made. I used Tableau as the main tool for analysis and dashboard creation, working with a dataset that included daily active users, installations, sign-ups, transaction counts, app crashes, and time spent per user. I defined key product KPIs, built calculated fields, and designed a dashboard to give the product team clear visibility into how VendBridge is performing since its launch.
