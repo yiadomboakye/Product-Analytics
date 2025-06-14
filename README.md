@@ -2,12 +2,12 @@
 
 ## Table of content
 - [Project Overview](#project-overview)
-- [Business Problem](#business-problem)
+- [Bsuiness Problem](#business-problem)
 - [Data Sources](#data-sources)
 - [Tools](#technical-tools-deployed)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Modelling](#data-modelling)
-- [Results /Findings](#results-findings)
+- [Results/Findings](#results-findings)
 - [Recommendations](#recommendations)
 
   
@@ -181,7 +181,7 @@ that these factors are influencing users to abandon the app.
 #### Leader Dashboard Report
 ![Leaderboard Report](https://github.com/user-attachments/assets/2d9060f2-6f2c-4507-be17-a5bb5a6c8faf)
 
-#### Recommendation
+#### Recommendations
 - Optimize the onboarding process to improve the signup rate. Address barriers and 
 provide incentives to increase conversions from installs to signups, especially in 
 regions like LATAM.
