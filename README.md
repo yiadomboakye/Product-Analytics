@@ -3,11 +3,10 @@
 ## Table of content
 - [Project Overview](#project-overview)
 - [Business Problem](#business-problem)
-- [Data Sources](#Data-Sources)
-- [Tools](#Technical-Tools-Deployed)
+- [Data Sources](#data-sources)
+- [Tools](#technical-tools-deployed)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Modelling](#data-modelling)
-- [Data Analysis](#data-analysis)
 - [Results /Findings](#results-findings)
 - [Recommendations](#recommendations)
 
