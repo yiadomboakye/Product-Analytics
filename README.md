@@ -169,5 +169,22 @@ that these factors are influencing users to abandon the app.
 #### Leader Dashboard Report
 ![Leaderboard Report](https://github.com/user-attachments/assets/2d9060f2-6f2c-4507-be17-a5bb5a6c8faf)
 
+#### Recommendation
+- Optimize the onboarding process to improve the signup rate. Address barriers and 
+provide incentives to increase conversions from installs to signups, especially in 
+regions like LATAM.
+- Prioritize fixing app crashes and improve overall app stability, especially during peak 
+times (e.g., late August). Address user feedback and improve the user experience to 
+reduce uninstalls.
+- Focus on retention strategies, including personalized notifications and loyalty 
+rewards, to reduce churn. Review reasons for uninstalls and crashes to mitigate their 
+impact on churn.
+- Continue leveraging successful campaigns in high-performing regions (e.g., US) and 
+explore targeted marketing in underperforming regions (e.g., LATAM) to sustain 
+growth.
+- Use the 30-day forecast for short-term planning and monitor fluctuations. Adjust 
+strategies for the 60-day forecast but prepare for more uncertainty in the 90-day
+period. Regularly update the forecast to maintain accuracy in long-term planning.
+
 
   
