@@ -2,7 +2,7 @@
 
 ## Table of content
 - [Project Overview](#project-overview)
-- [Bsuiness Problem](#business-problem)
+- [Business Problem](#business-problem)
 - [Data Sources](#data-sources)
 - [Tools](#technical-tools-deployed)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
